@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/doxcodes/doxcodes/blob/main/standard%20(2).gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/doxcodes/doxcodes/blob/main/standard%20(2).gif">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
