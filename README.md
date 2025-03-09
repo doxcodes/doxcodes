@@ -37,4 +37,4 @@
 
 ### 🏆 My Github Statistics
 
-![doxcodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=doxcodes&theme=midnight_purple&show_icons=true)
+![doxcodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=doxcodes&theme=midnight-purple&show_icons=true)
