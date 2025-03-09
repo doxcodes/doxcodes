@@ -1,11 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/doxcodes/doxcodes/blob/main/standard%20(2).gif">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/doxcodes/doxcodes/blob/main/standard%20(2).gif">
- <img alt="doxcodes" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
-
-
 # 🌌 doxcodes
 
 **`Software Engineer (Full-Stack)`**
@@ -45,4 +37,4 @@
 
 ### 🏆 My Github Statistics
 
-![doxcodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=doxcodes&theme=github_dark&show_icons=true)
+![doxcodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=doxcodes&theme=midnight_purple&show_icons=true)
