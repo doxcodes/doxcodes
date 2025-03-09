@@ -6,7 +6,7 @@
 
 
 # doxcodes
-### Hi there, I'm doxcodes (paradox), a 16-year-old full-stack developer from the UK. I've been programming ever since 2016 through the ROBLOX Studio IDE and have branched out since then. Despite my age I am passionate and driven and only hope to grow in terms of ability.
+### I am doxcodes, a 17-year-old full-stack developer from the UK. I've been programming ever since 2016 through the ROBLOX Studio IDE using Lua and have branched out since then to Unity and an assortment of languages
 
 
 # Languages
