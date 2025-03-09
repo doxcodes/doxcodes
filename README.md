@@ -41,3 +41,5 @@
 <br />
 
 #
+
+![doxcodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=doxcodes&theme=dark&show_icons=true)
