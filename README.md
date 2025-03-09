@@ -1,10 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/doxcodes/doxcodes/blob/main/standard%20(2).gif">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/doxcodes/doxcodes/blob/main/standard%20(2).gif">
- <img alt="doxcodes" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
-
 # 🌌 doxcodes
 
 **`Software Engineer (Full-Stack)`**
