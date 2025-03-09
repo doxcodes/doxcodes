@@ -1,5 +1,5 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/doxcodes/doxcodes/blob/main/doxcodes.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/doxcodes/doxcodes/blob/main/doxcodes2.png">
  <img alt="doxcodes" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
