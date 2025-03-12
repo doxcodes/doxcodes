@@ -7,7 +7,6 @@
 # 🌌 doxcodes
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer+(Full-Stack))](https://git.io/typing-svg)
-**`Software Engineer (Full-Stack`**
 ### I am an indie full-stack developer (specialising in the back-end) creating and innovating in the online world, one contribution at a time. All projects I create are built from the ground up, from designing and then solving problems with computational methods.  
 
 <p align="left">
