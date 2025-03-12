@@ -44,4 +44,4 @@
 ### 🏆 My Github Statistics
 
 ![doxcodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=doxcodes&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=00000000)
-[![doxcode's GitHub streak](https://streak-stats.demolab.com?user=doxcodes&theme=midnight-purple&background=#00FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=doxcodes&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
