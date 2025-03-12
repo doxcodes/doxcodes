@@ -14,10 +14,11 @@
 
 
 <p align="center">
-  <sub style="font-size: 300px;">
+  <span style="font-size: 26px;">
     I am an indie full-stack developer (specialising in the back-end) creating and innovating in the online world, one contribution at a time. All projects I create are built from the ground up, from designing and then solving problems with computational methods.
-  </sub>
+  </span>
 </p>
+
 
 
 
