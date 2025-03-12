@@ -9,7 +9,7 @@
   <h1>doxcodes</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=830ACD&center=true&width=435&lines=Software+Engineer+(Full-Stack)" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=830ACD&center=true&width=435&lines=Software+Engineer+(Full-Stack)" alt="Typing SVG">
   </a>
 </p>
 
