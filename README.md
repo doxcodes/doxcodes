@@ -7,10 +7,12 @@
 
 <div align="center">
   <h1>doxcodes</h1>
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=850ACF&width=435&lines=Software+Engineer+(Full-Stack)">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=850ACF&width=435&lines=Software+Engineer+(Full-Stack)" alt="Typing SVG">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=830ACD&center=true&width=435&lines=Software+Engineer+(Full-Stack)" alt="Typing SVG">
   </a>
-</div>
+</p>
+
 
 
 <p align="center">
