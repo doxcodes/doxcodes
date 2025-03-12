@@ -57,5 +57,8 @@
   </a>
 </p>
 
-
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-theta-bice.vercel.app?user=doxcodes&theme=midnight-purple&hide_border=true&background=FFFFFF00" alt="GitHub Streak">
+  </a>
+</p>
