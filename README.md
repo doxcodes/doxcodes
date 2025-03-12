@@ -44,5 +44,14 @@
 
 ### 🏆 My Github Statistics
 
-![doxcodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=doxcodes&theme=midnight-purple&show_icons=true&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?username=doxcodes&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+<p align=center>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=doxcodes&theme=midnight-purple&border=61dafb&hide_border=true" alt="OssieNomae"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=doxcodes&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  </a>
+  <a href="https://github.com/rahul-jha98/github-stats-transparent" title="Go to Source">
+    <img align="center" width=390 src="https://raw.githubusercontent.com/doxcodes/github-stats-transparent/31796b7e364484104edf39531c8c2c91115920c9/generated/overview.svg"/>
+  </a>
+</p>
