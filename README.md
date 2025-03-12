@@ -5,13 +5,13 @@
   </picture>
 </p>
 
-<h1 align="center">🌌 doxcodes</h1>
-
-<p align="center">
+<div align="center">
+  <h1>🌌 doxcodes</h1>
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=850ACF&width=435&lines=Software+Engineer+(Full-Stack)">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=850ACF&width=435&lines=Software+Engineer+(Full-Stack)" alt="Typing SVG">
   </a>
-</p>
+</div>
+
 
 <p align="center">
   <sub>I am an indie full-stack developer (specialising in the back-end) creating and innovating in the online world, one contribution at a time. All projects I create are built from the ground up, from designing and then solving problems with computational methods.</sub>
