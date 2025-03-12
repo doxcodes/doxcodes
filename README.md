@@ -24,7 +24,7 @@
 
 ---
 
-<p align="center"> ###💻 Languages & Tools</p>
+###💻 Languages & Tools
 
 <p align="center">
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -43,7 +43,7 @@
 
 ---
 
-<p align="center">🏆 My GitHub Statistics</p>
+### 🏆 My GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doxcodes&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub Stats">
