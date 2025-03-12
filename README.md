@@ -48,11 +48,11 @@
 ### 🏆 My GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doxcodes&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=doxcodes&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=00000000" alt="doxcode's GitHub Stats">
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-theta-bice.vercel.app?user=doxcodes&theme=midnight-purple&hide_border=true&background=FFFFFF00" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=doxcodes&theme=midnight-purple&hide_border=true&background=FFFFFF00" alt="doxcode's GitHub Streak">
   </a>
 </p>
