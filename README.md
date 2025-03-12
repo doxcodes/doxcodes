@@ -24,7 +24,7 @@
 
 ---
 
-###💻 Languages & Tools
+### 💻 Languages & Tools
 
 <p align="center">
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
